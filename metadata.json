@@ -1,0 +1,5 @@
+{
+  "name": "kerkerstock2",
+  "description": "A professional stock analysis dashboard for the Taiwan Stock Exchange (TWSE), utilizing Google Gemini with Search Grounding to fetch real-time data, financial metrics, and news from sources like HiStock and MoneyDJ.",
+  "requestFramePermissions": []
+}

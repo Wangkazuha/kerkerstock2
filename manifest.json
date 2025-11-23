@@ -1,0 +1,35 @@
+{
+  "short_name": "台股AI",
+  "name": "台灣股市 AI 分析助手",
+  "description": "提供台股即時分析、財報數據與三大法人動向的 PWA 應用程式。",
+  "id": "/",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#4f46e5",
+  "background_color": "#f8fafc",
+  "categories": ["finance", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/6065/6065488.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/6065/6065488.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "查看台積電",
+      "short_name": "台積電",
+      "url": "/?stock=2330",
+      "icons": [{ "src": "https://cdn-icons-png.flaticon.com/512/6065/6065488.png", "sizes": "192x192" }]
+    }
+  ]
+}
